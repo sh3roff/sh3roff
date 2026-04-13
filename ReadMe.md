@@ -2,25 +2,50 @@
 
 **`Analista de Dados | Estatística Ambiental | R & Python`**
 
+---
+
+## 🇧🇷 Sobre mim
+
 Sou formada em Licenciatura em Matemática e atualmente estou finalizando meu mestrado em Ambientometria. Tenho experiência com análise de dados ambientais, estatística aplicada e modelagem, utilizando principalmente a linguagem R.
 
 Estou em transição de carreira para a área de Dados, com foco em análise e ciência de dados, buscando aplicar minha base quantitativa e experiência acadêmica na resolução de problemas reais.
 
 ---
 
-### 📌 Sobre mim
+## 🇺🇸 About me
 
-- 📊 Experiência com análise estatística e modelagem de dados
-- 🌊 Atuação com dados ambientais e ecológicos (cetáceos e variáveis oceanográficas)
-- 🐍 Conhecimento em Python em desenvolvimento
-- 📈 Interesse em visualização de dados e Business Intelligence
-- 🗄️ Interesse e prática em SQL para manipulação de dados
-- 📊 Uso de Power BI para criação de dashboards e análise exploratória
-- 📚 Forte base em matemática e pesquisa científica
+I have a degree in Mathematics Education and I am currently completing a Master's degree in Environmental Ambientometry. I have experience in environmental data analysis, applied statistics, and modeling, mainly using R.
+
+I am currently transitioning into the Data field, focusing on Data Analysis and Data Science, aiming to apply my quantitative background and academic experience to real-world problems.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📌 Sobre mim | About me
+
+- 📊 Experiência com análise estatística e modelagem de dados  
+  📊 Experience in statistical analysis and data modeling  
+
+- 🌊 Dados ambientais e ecológicos (cetáceos e variáveis oceanográficas)  
+  🌊 Environmental and ecological data (cetaceans and oceanographic variables)  
+
+- 🐍 Python em desenvolvimento  
+  🐍 Python in development  
+
+- 📈 Visualização de dados e Business Intelligence  
+  📈 Data visualization and Business Intelligence  
+
+- 🗄️ SQL para manipulação de dados  
+  🗄️ SQL for data manipulation  
+
+- 📊 Power BI para dashboards e análise exploratória  
+  📊 Power BI for dashboards and exploratory analysis  
+
+- 📚 Forte base em matemática e pesquisa científica  
+  📚 Strong background in mathematics and scientific research  
+
+---
+
+## 🤖 Linguagens e Tecnologias | Languages & Technologies
 
 <img 
     align="left" 
@@ -76,13 +101,14 @@ Estou em transição de carreira para a área de Dados, com foco em análise e c
 
 ---
 
-### 📂 Projetos em destaque
+## 📂 Projetos em destaque | Featured projects
 
-🔹 Em desenvolvimento — projetos de análise de dados ambientais, exploração de dados e visualização interativa.
+🔹 Em desenvolvimento — projetos de análise de dados ambientais, exploração de dados e visualização interativa.  
+🔹 In development — environmental data analysis, exploratory data analysis and interactive visualization projects.
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas | Statistics
 
 <p>
   <img 
