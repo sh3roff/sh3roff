@@ -6,7 +6,7 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou formada em Licenciatura em Matemática e atualmente estou finalizando meu mestrado em Ambientometria. Tenho experiência com análise de dados ambientais, estatística aplicada e modelagem, utilizando principalmente a linguagem R.
+Sou formada em Licenciatura em Matemática e atualmente estou finalizando meu mestrado em Ambientometria pela Universidade Federal do Rio Grande - FURG. Tenho experiência com análise de dados ambientais, estatística aplicada e modelagem, utilizando principalmente a linguagem R.
 
 Estou em transição de carreira para a área de Dados, com foco em análise e ciência de dados, buscando aplicar minha base quantitativa e experiência acadêmica na resolução de problemas reais.
 
@@ -14,13 +14,13 @@ Estou em transição de carreira para a área de Dados, com foco em análise e c
 
 ## 🇺🇸 About me
 
-I have a degree in Mathematics Education and I am currently completing a Master's degree in Environmental Ambientometry. I have experience in environmental data analysis, applied statistics, and modeling, mainly using R.
+Background in Mathematics Education and ongoing Master’s in Environmental Ambientometry, with experience in environmental data analysis, applied statistics, and modeling, primarily using R.
 
-I am currently transitioning into the Data field, focusing on Data Analysis and Data Science, aiming to apply my quantitative background and academic experience to real-world problems.
+Career transition toward Data Analytics and Data Science, with emphasis on quantitative analysis and real-world problem solving in environmental systems.
 
 ---
 
-## 📌 Sobre mim | About me
+## 📌 Core competencies
 
 - 📊 Experiência com análise estatística e modelagem de dados  
   📊 Experience in statistical analysis and data modeling  
