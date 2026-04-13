@@ -1,12 +1,95 @@
-# 💫 Sobre mim:
-Graduada em <b>Licenciatura em Matemática</b> pela Universidade Federal do Rio Grande <b>(FURG)</b><br>Mestranda do curso de <b>Ambientometria</b> da Universidade Federal do Rio Grande <b>(FURG)</b><br>
-# Visite minhas páginas!
-<p> <a href="https://sh3roff.github.io/Reprodutibilidade2401/"> Aulas de Reprodutibilidade Científica com o R
+# 👩🏻‍💻 Sheron Magalhães
 
-<p> <a href="https://sh3roff.github.io/Reprodutibilidade2401/pagtest"> Saiba mais sobre meu projeto de mestrado! (Tarefa 1)
+**`Analista de Dados | Estatística Ambiental | R & Python`**
 
-### 💻 Linguagens de programação que utilizo:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+Sou formada em Licenciatura em Matemática e atualmente estou finalizando meu mestrado em Ambientometria. Tenho experiência com análise de dados ambientais, estatística aplicada e modelagem, utilizando principalmente a linguagem R.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Estou em transição de carreira para a área de Dados, com foco em análise e ciência de dados, buscando aplicar minha base quantitativa e experiência acadêmica na resolução de problemas reais.
 
+---
+
+### 📌 Sobre mim
+
+- 📊 Experiência com análise estatística e modelagem de dados
+- 🌊 Atuação com dados ambientais e ecológicos (cetáceos e variáveis oceanográficas)
+- 🐍 Conhecimento em Python em desenvolvimento
+- 📈 Interesse em visualização de dados e Business Intelligence
+- 🗄️ Interesse e prática em SQL para manipulação de dados
+- 📊 Uso de Power BI para criação de dashboards e análise exploratória
+- 📚 Forte base em matemática e pesquisa científica
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="R"
+    title="R" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Power BI"
+    title="Power BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📂 Projetos em destaque
+
+🔹 Em desenvolvimento — projetos de análise de dados ambientais, exploração de dados e visualização interativa.
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=sh3roff&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh3roff&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+  />
+
+</p>
