@@ -20,7 +20,7 @@ Career transition toward Data Analytics and Data Science, with emphasis on quant
 
 ---
 
-## 📌 Core competencies
+## 📌 Resumo de Perfil | Profile Summary
 
 - 📊 Experiência com análise estatística e modelagem de dados  
   📊 Experience in statistical analysis and data modeling  
