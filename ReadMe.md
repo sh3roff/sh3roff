@@ -56,14 +56,6 @@ Estou em transição de carreira para a área de Dados, com foco em análise e c
 />
 <img 
     align="left" 
-    alt="Power BI"
-    title="Power BI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git"
     title="Git" 
     width="30px" 
